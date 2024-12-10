@@ -1,0 +1,13 @@
+tests\UseCase9\ActiveMPWithInactiveContract.class
+tests\UseCase9\InactiveMPWithInactiveContract.class
+config\WebDriverConfig.class
+tests\UseCase9\ActiveMPWithActiveContract.class
+config\BasePage.class
+config\Browser.class
+pageobjects\GooglePage.class
+config\TestResultLogger.class
+config\TestConfig.class
+config\BaseTest.class
+config\BrowserParameterResolver.class
+tests\GoogleSearchTest.class
+tests\UseCase9\InactiveMPWithActiveContract.class

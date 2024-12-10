@@ -1,0 +1,95 @@
+2024-12-09 19:31:48.661 [main] INFO  config.WebDriverConfig - Initializing chrome browser
+2024-12-09 19:31:49.038 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+2024-12-09 19:31:49.058 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\JosedeLima\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+2024-12-09 19:31:49.952 [main] INFO  config.WebDriverConfig - Browser initialized successfully
+2024-12-09 19:31:53.293 [main] ERROR config.TestResultLogger - Test failed: testBasicSearch_1 chrome with error: Search results page title does not contain the expected text ==> expected: <true> but was: <false>
+2024-12-09 19:31:53.468 [main] INFO  config.TestResultLogger - Screenshot saved to: C:\source\cursor\selenium\test-output\screenshots\testBasicSearch_chrome_20241209_193153.png
+2024-12-09 19:31:53.468 [main] INFO  config.WebDriverConfig - Quitting browser
+2024-12-09 19:31:53.609 [main] INFO  config.WebDriverConfig - Initializing chrome browser
+2024-12-09 19:31:53.621 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+2024-12-09 19:31:53.627 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\JosedeLima\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+2024-12-09 19:31:54.235 [main] INFO  config.WebDriverConfig - Browser initialized successfully
+2024-12-09 19:31:57.424 [main] ERROR config.TestResultLogger - Test failed: testBasicSearch_2 firefox with error: Search results page title does not contain the expected text ==> expected: <true> but was: <false>
+2024-12-09 19:31:57.564 [main] INFO  config.TestResultLogger - Screenshot saved to: C:\source\cursor\selenium\test-output\screenshots\testBasicSearch_firefox_20241209_193157.png
+2024-12-09 19:31:57.564 [main] INFO  config.WebDriverConfig - Quitting browser
+2024-12-09 19:31:57.697 [main] INFO  config.WebDriverConfig - Initializing firefox browser
+2024-12-09 19:31:57.722 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.35.0 (resolved driver for Firefox 133)
+2024-12-09 19:31:57.736 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\JosedeLima\.cache\selenium\geckodriver\win64\0.35.0\geckodriver.exe
+2024-12-09 19:32:00.257 [main] INFO  config.WebDriverConfig - Browser initialized successfully
+2024-12-09 19:32:02.032 [main] ERROR config.TestResultLogger - Test failed: testBasicSearch_3 edge with error: Search results page title does not contain the expected text ==> expected: <true> but was: <false>
+2024-12-09 19:32:02.076 [main] INFO  config.TestResultLogger - Screenshot saved to: C:\source\cursor\selenium\test-output\screenshots\testBasicSearch_edge_20241209_193202.png
+2024-12-09 19:32:02.076 [main] INFO  config.WebDriverConfig - Quitting browser
+2024-12-09 19:33:37.961 [main] INFO  config.WebDriverConfig - Initializing chrome browser
+2024-12-09 19:33:38.358 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+2024-12-09 19:33:38.380 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\JosedeLima\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+2024-12-09 19:33:39.279 [main] INFO  config.WebDriverConfig - Browser initialized successfully
+2024-12-09 19:33:42.729 [main] INFO  config.TestResultLogger - Test passed: 1: chrome
+2024-12-09 19:33:42.729 [main] INFO  config.WebDriverConfig - Quitting browser
+2024-12-09 19:33:42.853 [main] INFO  config.WebDriverConfig - Initializing chrome browser
+2024-12-09 19:33:42.865 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+2024-12-09 19:33:42.872 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\JosedeLima\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+2024-12-09 19:33:43.508 [main] INFO  config.WebDriverConfig - Browser initialized successfully
+2024-12-09 19:33:46.619 [main] ERROR config.TestResultLogger - Test failed: testBasicSearch_2: firefox with error: Search results page title does not contain the expected text ==> expected: <true> but was: <false>
+2024-12-09 19:33:46.783 [main] INFO  config.TestResultLogger - Screenshot saved to: C:\source\cursor\selenium\test-output\screenshots\testBasicSearch_firefox_20241209_193346.png
+2024-12-09 19:33:46.784 [main] INFO  config.WebDriverConfig - Quitting browser
+2024-12-09 19:33:46.915 [main] INFO  config.WebDriverConfig - Initializing firefox browser
+2024-12-09 19:33:47.211 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.35.0 (resolved driver for Firefox 133)
+2024-12-09 19:33:47.224 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\JosedeLima\.cache\selenium\geckodriver\win64\0.35.0\geckodriver.exe
+2024-12-09 19:33:49.740 [main] INFO  config.WebDriverConfig - Browser initialized successfully
+2024-12-09 19:33:51.598 [main] ERROR config.TestResultLogger - Test failed: testBasicSearch_3: edge with error: Search results page title does not contain the expected text ==> expected: <true> but was: <false>
+2024-12-09 19:33:51.648 [main] INFO  config.TestResultLogger - Screenshot saved to: C:\source\cursor\selenium\test-output\screenshots\testBasicSearch_edge_20241209_193351.png
+2024-12-09 19:33:51.648 [main] INFO  config.WebDriverConfig - Quitting browser
+2024-12-09 19:34:22.379 [main] INFO  config.WebDriverConfig - Initializing chrome browser
+2024-12-09 19:34:22.744 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+2024-12-09 19:34:22.776 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\JosedeLima\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+2024-12-09 19:34:23.647 [main] INFO  config.WebDriverConfig - Browser initialized successfully
+2024-12-09 19:34:26.898 [main] INFO  config.TestResultLogger - Test passed: 1: chrome
+2024-12-09 19:34:26.899 [main] INFO  config.WebDriverConfig - Quitting browser
+2024-12-09 19:34:27.013 [main] INFO  config.WebDriverConfig - Initializing chrome browser
+2024-12-09 19:34:27.025 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+2024-12-09 19:34:27.032 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\JosedeLima\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+2024-12-09 19:34:27.726 [main] INFO  config.WebDriverConfig - Browser initialized successfully
+2024-12-09 19:34:31.025 [main] INFO  config.TestResultLogger - Test passed: 2: firefox
+2024-12-09 19:34:31.026 [main] INFO  config.WebDriverConfig - Quitting browser
+2024-12-09 19:34:31.156 [main] INFO  config.WebDriverConfig - Initializing firefox browser
+2024-12-09 19:34:31.165 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.35.0 (resolved driver for Firefox 133)
+2024-12-09 19:34:31.173 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\JosedeLima\.cache\selenium\geckodriver\win64\0.35.0\geckodriver.exe
+2024-12-09 19:34:33.807 [main] INFO  config.WebDriverConfig - Browser initialized successfully
+2024-12-09 19:34:35.455 [main] ERROR config.TestResultLogger - Test failed: testBasicSearch_3: edge with error: Search results page title does not contain the expected text ==> expected: <true> but was: <false>
+2024-12-09 19:34:35.511 [main] INFO  config.TestResultLogger - Screenshot saved to: C:\source\cursor\selenium\test-output\screenshots\testBasicSearch_edge_20241209_193435.png
+2024-12-09 19:34:35.512 [main] INFO  config.WebDriverConfig - Quitting browser
+2024-12-09 19:48:16.169 [main] INFO  config.WebDriverConfig - Initializing chrome browser
+2024-12-09 19:48:16.610 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+2024-12-09 19:48:16.633 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\JosedeLima\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+2024-12-09 19:48:17.544 [main] INFO  config.WebDriverConfig - Browser initialized successfully
+2024-12-09 19:48:21.010 [main] INFO  config.TestResultLogger - Test passed: [1] chrome
+2024-12-09 19:48:21.010 [main] INFO  config.WebDriverConfig - Quitting browser
+2024-12-09 19:48:21.166 [main] INFO  config.WebDriverConfig - Initializing chrome browser
+2024-12-09 19:48:21.178 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+2024-12-09 19:48:21.187 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\JosedeLima\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+2024-12-09 19:48:21.834 [main] INFO  config.WebDriverConfig - Browser initialized successfully
+2024-12-09 19:48:25.080 [main] INFO  config.TestResultLogger - Test passed: [2] firefox
+2024-12-09 19:48:25.080 [main] INFO  config.WebDriverConfig - Quitting browser
+2024-12-09 19:48:25.213 [main] INFO  config.WebDriverConfig - Initializing firefox browser
+2024-12-09 19:48:25.223 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.35.0 (resolved driver for Firefox 133)
+2024-12-09 19:48:25.230 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\JosedeLima\.cache\selenium\geckodriver\win64\0.35.0\geckodriver.exe
+2024-12-09 19:48:28.022 [main] INFO  config.WebDriverConfig - Browser initialized successfully
+2024-12-09 19:48:29.934 [main] ERROR config.TestResultLogger - Test failed: testBasicSearch_3 edge with error: Search results page title does not contain the expected text ==> expected: <true> but was: <false>
+2024-12-09 19:48:29.995 [main] INFO  config.TestResultLogger - Screenshot saved to: C:\source\cursor\selenium\test-output\screenshots\testBasicSearch_edge_20241209_194829.png
+2024-12-09 19:48:29.995 [main] INFO  config.WebDriverConfig - Quitting browser
+2024-12-09 19:48:30.770 [Thread-0] INFO  config.WebDriverConfig - Running shutdown hook to cleanup WebDriver instances
+2024-12-09 19:49:03.793 [main] INFO  config.WebDriverConfig - Initializing chrome browser
+2024-12-09 19:49:04.243 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+2024-12-09 19:49:04.268 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\JosedeLima\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+2024-12-09 19:49:05.174 [main] INFO  config.WebDriverConfig - Browser initialized successfully
+2024-12-09 19:49:08.568 [main] ERROR config.TestResultLogger - Test failed: testBasicSearch_1 edge with error: Search results page title does not contain the expected text ==> expected: <true> but was: <false>
+2024-12-09 19:49:08.755 [main] INFO  config.TestResultLogger - Screenshot saved to: C:\source\cursor\selenium\test-output\screenshots\testBasicSearch_edge_20241209_194908.png
+2024-12-09 19:49:08.755 [main] INFO  config.WebDriverConfig - Quitting browser
+2024-12-09 19:49:08.903 [Thread-0] INFO  config.WebDriverConfig - Running shutdown hook to cleanup WebDriver instances
+2024-12-10 12:43:18.945 [main] INFO  config.WebDriverConfig - Initializing chrome browser
+2024-12-10 12:43:20.190 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+2024-12-10 12:43:20.222 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\JosedeLima\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+2024-12-10 12:43:21.764 [main] INFO  config.WebDriverConfig - Browser initialized successfully
+2024-12-10 12:43:25.166 [main] INFO  config.TestResultLogger - Test passed: [1] edge
+2024-12-10 12:43:25.166 [main] INFO  config.WebDriverConfig - Quitting browser
+2024-12-10 12:43:25.372 [Thread-0] INFO  config.WebDriverConfig - Running shutdown hook to cleanup WebDriver instances
